@@ -1,4 +1,4 @@
-eagler: https://upgraded-robot-v56wgxg7qwv36xqr-8081.app.github.dev/
+eagler page: http://chillprints.plazik.pl:3000
 google: https://google.com
-kasm: https://chillprints.plazik.pl
-Server: wss://6771451f-7bc3-4246-943b-d328d326ad04-00-36wcvino8upp2.riker.replit.dev
+kasm: https://chillprints.plazik.pl:444
+server ip: ws://chillprints.plazik.pl:8081
