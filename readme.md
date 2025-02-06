@@ -1,4 +1,4 @@
-eagler page: http://chillprints.plazik.pl:3000
+eagler page: http://survival.plazik.pl:3000
 google: https://google.com
-kasm: https://chillprints.plazik.pl:444
-server ip: ws://chillprints.plazik.pl:8081
+kasm: https://survival.plazik.pl:444
+server ip: ws://survival.plazik.pl:8081
